@@ -1,10 +1,10 @@
 # Integrantes
 
 Nomes:
-Bruno Silva Bastos
-Gabriel Freitas
-Guilherme Daher
-Matheus Lucas
+Bruno Silva Bastos;
+Gabriel Freitas;
+Guilherme Daher;
+Matheus Lucas;
 
 Turma: ESPW1
 Ano: 2023
